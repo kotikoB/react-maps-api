@@ -1,0 +1,13 @@
+{
+    "name": "steve/maps",
+    "description": "a mapping application",
+    "authors": [
+        {
+            "name": "Steve",
+            "email": "oumas@outlook.com"
+        }
+    ],
+    "require": {
+        "sadick/resty": "^0.12.0"
+    }
+}

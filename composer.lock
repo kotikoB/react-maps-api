@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6dc9653f52bcc5465ee94cd108c32972",
+    "packages": [
+        {
+            "name": "sadick/resty",
+            "version": "v0.12.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sadick254/resty.git",
+                "reference": "85c8726fdf127972d2d5117b647dc5138c12daab"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sadick254/resty/zipball/85c8726fdf127972d2d5117b647dc5138c12daab",
+                "reference": "85c8726fdf127972d2d5117b647dc5138c12daab",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Resty\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sadick",
+                    "email": "sadickjunior@gmail.com"
+                }
+            ],
+            "description": "A simple php router",
+            "time": "2018-12-11T13:47:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
