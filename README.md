@@ -1,5 +1,5 @@
 # react-maps-api
-1. Backend REST API for the react maps app <br/>
+<bold>Backend REST API for the react maps app<bold/> <br/>
 2. Download or fork project. <br/>
 3. Navigate to  the project directory. <br/>
 4. Run the following command to install all dependencies <br/>
